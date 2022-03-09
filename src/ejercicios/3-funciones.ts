@@ -46,8 +46,3 @@ function darSemillaErmitaño(personaje: PersonajeDBZ, curarX: number): void {
 darSemillaErmitaño(nuevoPersonaje, 9999999);
 
 nuevoPersonaje.mostrarHp();
-
-module.exports = {
-    darSemillaErmitaño,
-    multiplicar
-}
